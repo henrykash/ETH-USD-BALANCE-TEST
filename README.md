@@ -17,7 +17,7 @@ Node.js (version 12.x or higher recommended)
 git clone https://github.com/Michaelloupa/ETH-USDT-BAL.git
 
 - Then cd to this folder 
-`cd ETH-USDT-BAL`
+`cd ETH-USDT-BALANCE-TEST`
 
 ## Install Dependencies
  -Inside the project directory, run: 
