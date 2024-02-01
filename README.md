@@ -24,8 +24,9 @@ git clone https://github.com/Michaelloupa/ETH-USDT-BAL.git
  `npm install`
 
 ## Configuration
-No additional configuration is needed to run the script as it uses public APIs to fetch the wallet balances.
-Ensure you have an Ethereum wallet address ready to use with the script.
+- Create a `.env` file and then provide your JSON_RPC foe ethereum mainnet or use this one:
+  
+  `https://go.getblock.io/31788de76faf4a1bb4f3e02d53ab32fc`
 
 ## Usage
 - To run the script, use the following command from the root of the project directory:
